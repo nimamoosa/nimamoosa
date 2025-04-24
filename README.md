@@ -69,7 +69,7 @@
 <p align="center">
   <a href="https://syntaxsquad.ir" target="_blank"><img src="https://img.shields.io/badge/-syntaxsquad.ir-%2300bfff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/nimamoosa" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@syntaxsquad.ir" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
