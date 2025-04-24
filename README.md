@@ -29,15 +29,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" height="60" style="margin: 10px;" /></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="60" style="margin: 10px;" /></a>
   <a href="https://moz.com/learn/seo/what-is-seo" target="_blank"><img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="60" style="margin: 10px;" /></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"
-       alt="Adobe Premiere Pro"
-       title="Adobe Premiere Pro"
-       height="40"
-       style="margin: 6px; padding: 4px; background-color: #1C1C1C; border-radius: 8px;" />
-</a>
-
-
 </p>
 
 
