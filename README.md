@@ -7,28 +7,28 @@
 <h3 align="center">🚀 Languages, Stacks & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="40" style="margin: 6px;" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nest.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" height="40" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SEO-Expert-brightgreen?style=flat-square&logo=google" title="SEO" height="28" /></a>
 </p>
 
 ---
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimamoosa&show_icons=true&theme=radical&count_private=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nimamoosa&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimamoosa&show_icons=true&theme=radical&count_private=true" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nimamoosa&theme=radical" width="420" />
 </p>
 
 ---
@@ -76,10 +76,10 @@
 <details>
 <summary>🧠 <b>What I'm working on now</b></summary>
 
-- 🛠 Building cool stuff at [Syntax Squad](https://syntaxsquad.ir)
-- 🧠 Researching AI & automation tools
-- 🔒 Playing with web security & ethical hacking
-- 🎮 Planning a creative programming-based game
+- 🛠 Building cool stuff at [Syntax Squad](https://syntaxsquad.ir)  
+- 🧠 Researching AI & automation tools  
+- 🔒 Playing with web security & ethical hacking  
+- 🎮 Planning a creative programming-based game  
 
 </details>
 
@@ -88,3 +88,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimamoosa&theme=dracula&hide_border=true" />
 </p>
+
+<style>
+  img[title] {
+    transition: transform 0.3s ease-in-out;
+    margin: 6px;
+  }
+  img[title]:hover {
+    transform: scale(1.2) rotate(4deg);
+  }
+</style>
