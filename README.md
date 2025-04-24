@@ -32,6 +32,17 @@
   <img src="https://skillicons.dev/icons?i=seo" height="40" alt="SEO" title="SEO" />
 </p>
 
+<style>
+  img[title] {
+    transition: transform 0.3s ease;
+    margin: 8px;
+  }
+  img[title]:hover {
+    transform: scale(1.2) rotate(3deg);
+  }
+</style>
+
+
 ---
 
 ### 🧠 About Me
