@@ -7,29 +7,30 @@
 <h3 align="center">🚀 Languages, Stacks & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="40" style="margin: 6px;" />
-  <img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="40" style="margin: 6px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="60" style="margin: 10px;" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="60" style="margin: 10px;" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="60" style="margin: 10px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="60" style="margin: 10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="60" style="margin: 10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust" height="60" style="margin: 10px;" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="60" style="margin: 10px;" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" height="60" style="margin: 10px;" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" height="60" style="margin: 10px;" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="60" style="margin: 10px;" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" height="60" style="margin: 10px;" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="60" style="margin: 10px;" /></a>
+  <a href="https://moz.com/learn/seo/what-is-seo" target="_blank"><img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="60" style="margin: 10px;" /></a>
 </p>
+
 
 ---
 
