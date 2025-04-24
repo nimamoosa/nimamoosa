@@ -1,69 +1,76 @@
+<h1 align="center">👨‍💻 Nima Moosa | Full Stack & Security Engineer</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=800&center=true&vCenter=true&width=800&height=70&lines=Hi+There+👋%2C+I'm+Nima+Moosa!;Full-stack+Web+%2F+Mobile+%2F+AI+Developer.;Founder+of+Syntax+Squad.;Web+Security+Specialist+%F0%9F%9A%A8" alt="Typing SVG" />
+  <a href="https://syntaxsquad.ir" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer.;Security+Researcher+%26+Backend+Architect.;Love+building+useful+%26+cool+tools." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://syntaxsquad.ir" target="_blank">
+    <img src="https://img.shields.io/badge/MyWebsite-SyntaxSquad.ir-%23ff0057?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Freelancer-%F0%9F%92%BC-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Developer-%2300ffff?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Languages, Stacks & Skills</h3>
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,mongodb,mongoose,tailwind,html,css,rust,cpp,dotnet,express,socketio,websocket,nuxt,vue,reactnative,kotlin,java,flutter,bash,seo,ai" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,html,css,tailwind,flutter,reactnative,vue,nuxt,express,socketio,websocket,dotnet,kotlin,java,cpp,rust,mongodb,bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/SEO-0A0A0A?style=for-the-badge&logo=yoast&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Developer-%236600cc?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🛡 Security & Networking
 
-- 💻 Full Stack Developer | Web Security Specialist  
-- 🚀 Building advanced apps with ❤️ using `Next.js`, `Node.js`, `AI`, `Flutter`, and more!  
-- 🔐 Ethical hacker mindset: Love breaking & fixing the web  
-- 🧠 AI & automation enthusiast  
-- 🧩 Founder of: [syntaxsquad.ir](https://syntaxsquad.ir)  
-- 🎯 Mission: Help devs level up their game with clean code, security & performance  
+- Web Penetration Testing 🔐  
+- CSRF, XSS, SQLi, SSRF, RCE و حملات رایج  
+- Cloudflare, CSF Firewall, DNS Customization  
+- Secure backend API design
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimamoosa&show_icons=true&theme=radical&count_private=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nimamoosa&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimamoosa&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimamoosa&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-### 🧩 GitHub Activity
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimamoosa&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nimamoosa&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nimamoosa&theme=github_dark" />
-</p>
+- 💼 Website: [syntaxsquad.ir](https://syntaxsquad.ir)
+- 🧠 Telegram: [@nimamoosa](https://t.me/nimamoosa)
+- 📧 Email: nimamoosa.dev@gmail.com
 
 ---
 
-### 🔗 Connect With Me
+## ⚠ License & Disclaimer
 
-<p align="center">
-  <a href="https://syntaxsquad.ir" target="_blank"><img src="https://img.shields.io/badge/-syntaxsquad.ir-%2300bfff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/nimamoosa" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+```txt
+MIT License
 
----
+Copyright (c) 2025
 
-<details>
-<summary>🧠 <b>What I'm working on now</b></summary>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
 
-- 🛠 Building cool stuff at [Syntax Squad](https://syntaxsquad.ir)
-- 🧠 Researching AI & automation tools
-- 🔒 Playing with web security & ethical hacking
-- 🎮 Planning a creative programming-based game
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
 
-</details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimamoosa&theme=dracula&hide_border=true" />
-</p>
+Disclaimer:
+This profile and any related tools or scripts are made for educational and research purposes only. The developer is not responsible for any misuse.
