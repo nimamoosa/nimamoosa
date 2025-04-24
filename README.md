@@ -7,7 +7,29 @@
 <h3 align="center">🚀 Languages, Stacks & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,mongodb,mongoose,tailwind,html,css,rust,cpp,dotnet,express,socketio,websocket,nuxt,vue,reactnative,kotlin,java,flutter,bash,seo,ai" />
+  <!-- Skill Icons CDN -->
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Nest.js" title="Nest.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="Nuxt.js" title="Nuxt.js" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
+  <img src="https://skillicons.dev/icons?i=seo" height="40" alt="SEO" title="SEO" />
 </p>
 
 ---
