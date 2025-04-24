@@ -30,7 +30,7 @@
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="60" style="margin: 10px;" /></a>
   <a href="https://moz.com/learn/seo/what-is-seo" target="_blank"><img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="60" style="margin: 10px;" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Premiere_Pro_Logo.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" height="60" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" height="60" style="margin: 10px;" />
 </a>
 </p>
 
