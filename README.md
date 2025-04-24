@@ -7,41 +7,29 @@
 <h3 align="center">🚀 Languages, Stacks & Skills</h3>
 
 <p align="center">
-  <!-- Skill Icons CDN -->
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Nest.js" title="Nest.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="Nuxt.js" title="Nuxt.js" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
-  <img src="https://skillicons.dev/icons?i=seo" height="40" alt="SEO" title="SEO" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" title="Nest.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" height="40" style="margin: 6px;" />
+  <img src="https://skillicons.dev/icons?i=seo" alt="SEO" title="SEO" height="40" style="margin: 6px;" />
 </p>
-
-<style>
-  img[title] {
-    transition: transform 0.3s ease;
-    margin: 8px;
-  }
-  img[title]:hover {
-    transform: scale(1.2) rotate(3deg);
-  }
-</style>
-
 
 ---
 
