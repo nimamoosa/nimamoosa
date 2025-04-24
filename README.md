@@ -7,8 +7,7 @@
 <h3 align="center">🚀 Languages, Stacks & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,mongodb,tailwind,html,css,rust,cpp,dotnet,express,nuxt,vue,reactnative,kotlin,java,flutter,bash" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,mongodb,mongoose,tailwind,html,css,rust,cpp,dotnet,express,socketio,websocket,nuxt,vue,reactnative,kotlin,java,flutter,bash,seo,ai" />
 </p>
 
 ---
