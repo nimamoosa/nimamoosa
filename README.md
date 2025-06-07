@@ -40,7 +40,7 @@
 - 🚀 Building advanced apps with ❤️ using `Next.js`, `Node.js`, `AI`, `Flutter`, and more!  
 - 🔐 Ethical hacker mindset: Love breaking & fixing the web  
 - 🧠 AI & automation enthusiast  
-- 🧩 Founder of: [syntaxsquad.ir](https://syntaxsquad.ir)  
+- 🧩 Founder of: [alyvro.com](https://alyvro.com)  
 - 🎯 Mission: Help devs level up their game with clean code, security & performance  
 
 ---
@@ -67,9 +67,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://syntaxsquad.ir" target="_blank"><img src="https://img.shields.io/badge/-syntaxsquad.ir-%2300bfff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://alyvro.com" target="_blank"><img src="https://img.shields.io/badge/-syntaxsquad.ir-%2300bfff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/nimamoosa" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:info@syntaxsquad.ir" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@alyvro.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 <details>
 <summary>🧠 <b>What I'm working on now</b></summary>
 
-- 🛠 Building cool stuff at [Syntax Squad](https://syntaxsquad.ir)
+- 🛠 Building cool stuff at [Alyvro](https://alyvro.com)
 - 🧠 Researching AI & automation tools
 - 🔒 Playing with web security & ethical hacking
 - 🎮 Planning a creative programming-based game
